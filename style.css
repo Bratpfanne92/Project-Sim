@@ -70,7 +70,8 @@ img {
   float: left;
   margin-right: 20px;
 }
-.logi {
+.logi,
+.fana {
   margin-left: 40px;
   border: 2px solid rgba(0, 0, 0, 0);
   float: right;
